@@ -15,41 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi 👋, I'm Ji Junhao
+## Hi 👋, I'm Fu Lequn
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jijunhao&label=Profile%20views&color=0e75b6&style=flat" alt="jijunhao" /> </p>
 
 - 🤔 I graduated from **Xiangtan University** with a bachelor's degree
 
-- 🌱 I’m currently learning **CV、deeplearning**
+- 🌱 I’m currently learning **Reinforcement Learning、Deep Learning**
 
-- 💬 Ask me about **Math、Linux、Latex、Python**
+- 💬 Ask me about **Python**
 
-- 📫 How to reach me **218657803@qq.com**
+- 📫 How to reach me **2208234996@qq.com**
 
-<!--
-**jijunhao/jijunhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 🏆 Github Trophy
 
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=jijunhao&show_icons=true&&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=fulequn&show_icons=true&&hide_title=true&count_private=true" />
 
   <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=jijunhao&layout=compact" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=fulequn&layout=compact" />
     </td>
   </tr>
 </table>
@@ -83,5 +69,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jijunhao&show_icons=true&locale=en" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fulequn&show_icons=true&locale=en" />
 </p>
