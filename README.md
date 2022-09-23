@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Hi 👋, I'm Fu Lequn
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jijunhao&label=Profile%20views&color=0e75b6&style=flat" alt="jijunhao" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fulequn&label=Profile%20views&color=0e75b6&style=flat" alt="fulequn" /> </p>
 
-- 🤔 I graduated from **Xiangtan University** with a bachelor's degree
+- 🤔 I graduated from **Changchun University Of Science And Technology** with a bachelor's degree
 
 - 🌱 I’m currently learning **Reinforcement Learning、Deep Learning**
 
